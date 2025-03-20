@@ -1,0 +1,16 @@
+{
+  "name": "apple-payment-poc",
+  "version": "1.0.0",
+  "description": "Estudei Apple Payment Webhook POC",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start":"node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
